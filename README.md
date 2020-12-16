@@ -7,4 +7,5 @@ ich schreibe jetzt einen Text..
 
 hier noch ein kleiner text..
 
+das ist eine Änderung über das Git-Portal..
 
